@@ -1,3 +1,5 @@
+Authors (@slack): Hagar Haitham Elazab , Wale Joseph(@wale)
+
 Cancer is not just one disease but a complex group of more than 100 different diseases characterized by the uncontrolled growth and spread of abnormal cells. Now we will focus on breast cancer in particular. Breast cancer is similar to them in that 1- abnormal cells grow 2- tumors can spread and become fatal. In 2022, 2.3 million women were diagnosed with breast cancer and 670,000 women died. These women could have been saved because this disease can be detected in its early stages and is not life-threatening. This disease can also affect men, but the percentage is very low. What are the factors that can increase the chances of developing breast cancer?  
 (Obesity- Alcohol- Family history- Exposure to radiation- Aging- Tobacco)
 
