@@ -22,3 +22,4 @@ Each of these methods has its advantages and disadvantages:
 Surgery may remove just the cancerous tissue or the whole breast  
 Now there are international organizations interested in reducing the number of deaths such as: Global Breast Cancer Initiative (GBCI)  
 Its goal is to reduce the number of deaths annually by 2.5%, which means two and a half million people will not die from breast cancer and save their lifes.
+https://www.who.int/news-room/fact-sheets/detail/breast-cancer
